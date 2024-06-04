@@ -5,10 +5,10 @@ A passionate individual with an appreciation for art, who wanted to experiment w
 
 ## Website
 
-You can access the website [here](https://nicodumetz.github.io/Site-Demonstration).
+You can access the website [here](https://nicodumetz.github.io/Parallax-Van-Gogh).
 
 The link:
-[https://nicodumetz.github.io/Site-Demonstration](https://nicodumetz.github.io/Site-Demonstration)
+[https://nicodumetz.github.io/Site-Demonstration](https://nicodumetz.github.io/Parallax-Van-Gogh/)
 
 ## Authors
 Thank you for checking out this project! If you have any questions or would like to collaborate, feel free to contact me.
